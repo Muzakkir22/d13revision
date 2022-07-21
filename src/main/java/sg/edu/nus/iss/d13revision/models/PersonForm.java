@@ -14,7 +14,7 @@ public class PersonForm {
     public String getLastName() {
         return lastName;
     }
-    public void getLastName(String lastName) {
+    public void setLastName(String lastName) {
         this.lastName = lastName;
     }  
 }
